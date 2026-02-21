@@ -87,8 +87,6 @@ function Vowel(str) {
 
 
 // 10. Find Sum of Digits of a Number
-//not able to solve
-
 let num = [1,2,3,4];
 let sum = num.reduce((acc, digit) => acc + digit, 0);
 console.log(sum);
